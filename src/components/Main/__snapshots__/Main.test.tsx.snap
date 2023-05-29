@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <p>
+      <strong>
+        Window width:
+      </strong>
+       1024
+    </p>
+    <p>
+      <strong>
+        Window height:
+      </strong>
+       768
+    </p>
+    <p>
+      <strong>
+        Device type:
+      </strong>
+       Mozilla/5.0 (darwin) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/16.7.0
+    </p>
+    <p>
+      <strong>
+        Application theme:
+      </strong>
+       light
+    </p>
+    <button>
+      Change theme
+    </button>
+  </div>
+</DocumentFragment>
+`;
